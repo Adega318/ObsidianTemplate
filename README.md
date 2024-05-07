@@ -14,7 +14,7 @@
 </details>
 
 ## About the template
-This is a template to jumpstart your vaults in a short time with a variarity of plugins and basic configurations.
+This is a template to jumpstart your vaults in a short time with a variety of plugins and basic configurations.
 
 Plugins:
 - table-editor-obsidian
@@ -34,9 +34,9 @@ Prerequisites:
 - obsidian
 - git
 
-### Instalation
+### Installation
 1. Clone this repository.
 ```sh
-git clone https://github.com/Adega318/ObsidianTemplate.git
+  git clone https://github.com/Adega318/ObsidianTemplate.git
 ```
 2. Open the cloned folder with obsidian.
